@@ -33,11 +33,11 @@ Atualmente no 8º semestre, busco unir a visão tecnológica da engenharia com e
 
 ### 📊 Estatísticas do GitHub
 <p align="left">
-  <!-- Card de Status Geral (Compacto e estável) -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nenalia02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <!-- Card de Status Geral com cores personalizadas (Roxo/Lilás) -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nenalia02&show_icons=true&bg_color=180226&title_color=eee0fb&text_color=eee0fb&icon_color=5503A6&border_color=5503A6&include_all_commits=true&count_private=true" />
 
-  <!-- Card de Streak (Mostra sua atividade) -->
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nenalia02&theme=dracula" />
+  <!-- Card de Streak com as mesmas cores -->
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nenalia02&currTheme=tokyonight&background=180226&ring=5503A6&fire=5503A6&currStreakLabel=eee0fb" />
 </p>
 
 ---
