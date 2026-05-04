@@ -33,8 +33,10 @@ Atualmente no 8º semestre, busco unir a visão tecnológica da engenharia com e
 
 ### 📊 Estatísticas do GitHub
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nenalia02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nenalia02&layout=compact&langs_count=7&theme=tokyonight"/>
+  <!-- Adicionei o '&cache=1' no final para forçar o GitHub a carregar de novo -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nenalia02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache=1"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nenalia02&layout=compact&langs_count=7&theme=dracula&cache=1"/>
 </p>
 
 ---
