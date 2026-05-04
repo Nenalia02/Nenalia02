@@ -1,4 +1,4 @@
-# <p align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=1000&color=eee0fb&width=435&lines=Hi,+Lorena!+👋+❤️;Engenheira+de+Software;Assessora+na+Orc'estra" alt="Typing SVG" /></p>
+## Hi, Lorena ❤️
 
 ### 👩‍💻 Graduanda em Engenharia de Software @ UnB (FCTE)
 Busco unir a visão tecnológica da engenharia com estratégias de comunicação, gamificação e criatividade.
