@@ -1,7 +1,7 @@
 # Hi, Lorena! 👋 ❤️
 
 ### 👩‍💻 Graduanda em Engenharia de Software @ UnB (FCTE)
-Atualmente no 8º semestre, busco unir a visão tecnológica da engenharia com estratégias de comunicação, gamificação e criatividade.
+Busco unir a visão tecnológica da engenharia com estratégias de comunicação, gamificação e criatividade.
 
 ---
 
