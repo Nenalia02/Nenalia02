@@ -33,10 +33,7 @@ Atualmente no 8º semestre, busco unir a visão tecnológica da engenharia com e
 
 ### 📊 Estatísticas do GitHub
 <p align="left">
-  <!-- Card de Estatísticas Gerais -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nenalia02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <!-- Card de Linguagens mais usadas -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nenalia02&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
