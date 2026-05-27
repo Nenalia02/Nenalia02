@@ -6,9 +6,9 @@ Busco unir a visão tecnológica da engenharia com estratégias de comunicação
 ---
 
 ### 🚀 Sobre Mim
-- ⚡ **Assessora de Operações** na [Orc'estra Gamificação](https://github.com/orcestragamificacao), onde cuido da gestão de pessoas e da parte administrativa. [cite: 2]
-- 💡 **Empreendedora:** Já gerenciei a *Bananita's*, o que me trouxe uma visão proativa e organizada de gestão.[cite: 1, 2]
-- 🎓 **Foco Acadêmico:** Design de sistemas, metodologias ágeis e desenvolvimento proativo.[cite: 1]
+- ⚡ **Assessora de Operações** na [Orc'estra Gamificação](https://github.com/orcestragamificacao), onde cuido da gestão de pessoas e da parte administrativa.
+- 💡 **Empreendedora:** Já gerenciei a *Bananita's*, o que me trouxe uma visão organizada de gestão.
+- 🎓 **Foco Acadêmico:** UX/UI, Design de sistemas e IA.
   
 ---
 
